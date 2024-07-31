@@ -3,9 +3,10 @@
 Sou apaixonado por Data Science e desenvolvimento de software. Gosto de transformar dados em insights valiosos e construir soluções escaláveis.
 
 **Habilidades:**
-* **Linguagens:** Python, R, SQL, Java
-* **Ferramentas:** Power BI, Jupyter Notebook
-* **Bibliotecas:** Pandas, NumPy, Scikit-learn, Matplotlib, Spring Boot
+* **Linguagens:** Python, R, SQL, Java.
+* **Ferramentas:** Power BI.
+* **Bibliotecas:** Pandas, NumPy, Scikit-learn, Matplotlib, Spring Boot.
+*  **Conhecimentos:** Matemática e Estatística.
 
 **Contato:**
 * **E-mail:** matheusilva007.az@gmail.com
